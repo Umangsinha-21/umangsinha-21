@@ -28,7 +28,10 @@
 🤝 I’m always open to collaborating on:
 - Data storytelling + social innovation  
 - AI/ML solutions with real-world impact  
-- Hackathons, pitch events & student-led ventures  
+- Hackathons, pitch events & student-led ventures
+
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umangsinha-21&show_icons=true&locale=en&layout=compact" alt="umangsinha-21" /></p>
+
 
 📫 Reach me at: **umang.2003@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/umang-sinha-2b1853241/) 
